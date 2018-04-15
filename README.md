@@ -1,2 +1,4 @@
 # otus_hw2
-Visualization
+
+Задание 1 - babynames/babynames.ipynb
+Задание 2 - hh/headhunter.ipynb
