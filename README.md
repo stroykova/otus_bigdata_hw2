@@ -1,5 +1,8 @@
 # Визуализация
-  
-Задание 1 - babynames.ipynb  
-Задание 2 - headhunter.ipynb  
 Данные по обоим заданиям в репозиторий не загружены в связи с объемом данных.
+
+**Задание 1** - babynames.ipynb  
+  
+**Задание 2** - headhunter.ipynb  
+Карта folium не отображается на github, сохранена как data/heatmap.html 
+
