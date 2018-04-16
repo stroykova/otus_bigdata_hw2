@@ -4,5 +4,5 @@
 **Задание 1** - babynames.ipynb  
   
 **Задание 2** - headhunter.ipynb  
-Карта folium не отображается на github, сохранена как data/heatmap.html 
+Карта folium не отображается на github, форматы png и html сохранены в папке data, в jupyter notebook добавлено отображение png-файла 
 
